@@ -9,6 +9,7 @@ echo -------------------------------------------------------
 echo # RGB Generator by F4stZ4p. Press any key to generate #
 echo -------------------------------------------------------
 pause >nul
+goto :event_color.gen
 
 :event_color.gen
 cls
